@@ -1,23 +1,22 @@
 import Vue from 'vue'
 import VueRouter from 'vue-router'
-import Home from '../views/Home.vue'
 
+import main from './main'
+
+// 1.安装插件
 Vue.use(VueRouter)
 
+// 2.创建路由对象==============
 const routes = [
   {
-    path: '/',
-    name: 'Home',
-    component: Home
+    path: '*',   // 当路由没有匹配的组件时,  则跳转到login页面
+    redirect: '/main'
   },
   {
-    path: '/about',
-    name: 'About',
-    // route level code-splitting
-    // this generates a separate chunk (about.[hash].js) for this route
-    // which is lazy-loaded when the route is visited.
-    component: () => import(/* webpackChunkName: "about" */ '../views/About.vue')
-  }
+    path: '/login',
+    component: () => import('views/Login')
+  },
+  main
 ]
 
 const router = new VueRouter({
@@ -26,4 +25,6 @@ const router = new VueRouter({
   routes
 })
 
+// 3. 导出
 export default router
+

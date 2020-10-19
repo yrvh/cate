@@ -1,0 +1,198 @@
+{
+  "id": "2138120",
+  "name": "cate",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1026188",
+      "name": "帮助",
+      "font_class": "bangzhu",
+      "unicode": "e62f",
+      "unicode_decimal": 58927
+    },
+    {
+      "icon_id": "1086272",
+      "name": "业务图标—私",
+      "font_class": "yewutubiaosi",
+      "unicode": "e636",
+      "unicode_decimal": 58934
+    },
+    {
+      "icon_id": "1126022",
+      "name": "短信",
+      "font_class": "duanxin",
+      "unicode": "e64d",
+      "unicode_decimal": 58957
+    },
+    {
+      "icon_id": "1381825",
+      "name": "通讯录",
+      "font_class": "tongxunlu",
+      "unicode": "e632",
+      "unicode_decimal": 58930
+    },
+    {
+      "icon_id": "2569869",
+      "name": "登录",
+      "font_class": "denglu1",
+      "unicode": "e67c",
+      "unicode_decimal": 59004
+    },
+    {
+      "icon_id": "2578455",
+      "name": "未登录-头像",
+      "font_class": "weidenglu-touxiang",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "4933141",
+      "name": "时间",
+      "font_class": "shijian",
+      "unicode": "e6c2",
+      "unicode_decimal": 59074
+    },
+    {
+      "icon_id": "5477165",
+      "name": "打印",
+      "font_class": "dayin",
+      "unicode": "e631",
+      "unicode_decimal": 58929
+    },
+    {
+      "icon_id": "5823219",
+      "name": "通知",
+      "font_class": "tongzhi",
+      "unicode": "e61d",
+      "unicode_decimal": 58909
+    },
+    {
+      "icon_id": "6348675",
+      "name": "集成打包",
+      "font_class": "huowudui",
+      "unicode": "ec89",
+      "unicode_decimal": 60553
+    },
+    {
+      "icon_id": "6376166",
+      "name": "评价",
+      "font_class": "pingjia",
+      "unicode": "e633",
+      "unicode_decimal": 58931
+    },
+    {
+      "icon_id": "7682480",
+      "name": "时间",
+      "font_class": "shijian1",
+      "unicode": "e62a",
+      "unicode_decimal": 58922
+    },
+    {
+      "icon_id": "7992455",
+      "name": "统计",
+      "font_class": "tongji-",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "13479238",
+      "name": "评价",
+      "font_class": "B",
+      "unicode": "e707",
+      "unicode_decimal": 59143
+    },
+    {
+      "icon_id": "16589896",
+      "name": "时间",
+      "font_class": "17shijian",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    },
+    {
+      "icon_id": "728996",
+      "name": "眼睛",
+      "font_class": "yanjing",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "1173259",
+      "name": "运营推广00",
+      "font_class": "yunyingtuiguang",
+      "unicode": "e6f1",
+      "unicode_decimal": 59121
+    },
+    {
+      "icon_id": "1249063",
+      "name": "密码",
+      "font_class": "mima",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "1921128",
+      "name": "员工管理",
+      "font_class": "yuangongguanli",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "3020015",
+      "name": "二级-应用运行报表",
+      "font_class": "erji-yingyongyunhangbaobiao",
+      "unicode": "eaa6",
+      "unicode_decimal": 60070
+    },
+    {
+      "icon_id": "3885969",
+      "name": "门店",
+      "font_class": "_mendian",
+      "unicode": "e827",
+      "unicode_decimal": 59431
+    },
+    {
+      "icon_id": "8300925",
+      "name": "闭眼",
+      "font_class": "biyan",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "11776580",
+      "name": "登录",
+      "font_class": "denglu",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "14888084",
+      "name": "门店入驻",
+      "font_class": "zu165",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "16386665",
+      "name": "管理",
+      "font_class": "biaoqiankuozhan_guanli-159",
+      "unicode": "eb17",
+      "unicode_decimal": 60183
+    },
+    {
+      "icon_id": "16542979",
+      "name": "闭眼",
+      "font_class": "biyan1",
+      "unicode": "e6c4",
+      "unicode_decimal": 59076
+    },
+    {
+      "icon_id": "16942326",
+      "name": "订单",
+      "font_class": "dingdan",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    }
+  ]
+}
